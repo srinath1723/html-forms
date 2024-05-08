@@ -1,0 +1,72 @@
+/* Add your custom styles here */
+
+/* Center the form and table */
+form, table {
+    margin: 0 auto;
+    width: 50%;
+    
+}
+.root1{
+    background-image:url("/image.jpg");
+}
+
+/* Style form inputs and labels */
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Style submit button */
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Style table */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table th, .table td {
+    padding: 8px;
+    border-bottom: 1px solid #020333;
+}
+
+.table th {
+    background-color: #5365f1;
+    text-align: left;
+    font-weight: bold;
+}
+.root{
+    text-align:center;
+    background-color: rgb(255, 136, 127);
+}
