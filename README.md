@@ -20,9 +20,9 @@
 
 
     **solution**
-       * All javascript codes are scripted file name on[script.js](./js/script.js) and which have been imported in the [Html page.](./index.html)
+       * All javascript codes are scripted file name on [script.js](./js/script.js) and which have been imported in the [Html page.](./index.html)
         
-       * For style the page[style](./css/style.css) and image user for background[image](./image.jpg)
+       * For style the page [style](./css/style.css) and image user for background [image](./image.jpg)
 
     
   
